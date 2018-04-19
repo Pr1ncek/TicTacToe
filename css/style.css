@@ -1,0 +1,107 @@
+body {
+
+    padding: 0;
+    margin: 0;
+    width: 100%;
+
+}
+
+
+h1 {
+
+
+    text-align: center;
+
+}
+
+h2 {
+
+    padding-top: 25px;
+    margin: 0;
+
+
+}
+
+ul {
+
+    padding: 0;
+    margin: 0;
+
+
+}
+
+li {
+
+    margin-top: 10px;
+    list-style: none;
+    font-size: 1.5em;
+
+
+}
+
+a {
+
+    text-decoration: none;
+
+
+}
+
+
+table {
+
+
+    width: 500px;
+    height: 500px;
+    margin-left: 25%;
+
+
+}
+
+
+
+.marking {
+
+    padding: 0;
+    margin: 0;
+    font-size: 3.0em;
+    text-align: center;
+
+
+}
+
+#tr1,
+#tr2 {
+
+
+    border-bottom: 5px solid #000;
+
+
+
+}
+
+#tr3 {}
+
+#tr1 td,
+#tr2 td,
+#tr3 td {
+
+    padding: 50px;
+    border-right: 5px solid #000;
+
+}
+
+#tr1 td:last-child,
+#tr2 td:last-child,
+#tr3 td:last-child {
+
+    border-right: 5px solid transparent;
+
+}
+
+button {
+    
+    position: absolute;
+    right: 25px;
+    
+}
+
